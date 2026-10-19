@@ -75,3 +75,7 @@ says it supports them (`COLORTERM=truecolor`), otherwise 256-colour.
 - **"motion sensor unavailable" on a MacBook:** some models may need
   `sudo python3 ball_balance.py`. Intel MacBooks don't have this sensor.
 - **"Make the terminal bigger":** enlarge the window or zoom out.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
