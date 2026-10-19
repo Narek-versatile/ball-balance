@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.DS_Store
+ball_balance_save.json
